@@ -28,10 +28,10 @@ url: "https://grahammather.github.io" # the base hostname & protocol for your si
 github_username:  grahammather
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
-  - jekyll-feed
   - jekyll-include-cache
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
